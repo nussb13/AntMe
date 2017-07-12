@@ -1,0 +1,11 @@
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.Player.AntMeMongos.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.Player.AntMeMongos.pdb
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.SharedComponents.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.Simulation.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.SharedComponents.xml
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\AntMe.Simulation.xml
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\de\AntMe.SharedComponents.resources.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\bin\de\AntMe.Simulation.resources.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\obj\Debug\AntMeMongos.csprojResolveAssemblyReference.cache
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\obj\Debug\AntMe.Player.AntMeMongos.dll
+C:\Users\Florian\Source\Repos\AntMe\AntMeMongos\obj\Debug\AntMe.Player.AntMeMongos.pdb
